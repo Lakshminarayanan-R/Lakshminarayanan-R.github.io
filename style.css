@@ -199,12 +199,6 @@ section {
   text-align: center;
 }
 
-.arrow {
-    position: absolute;
-    right: -5rem;
-    bottom: 2.5rem;
-}
-
 #socials-container {
   display: flex;
   justify-content: center;

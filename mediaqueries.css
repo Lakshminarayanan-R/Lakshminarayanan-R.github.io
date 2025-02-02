@@ -25,10 +25,10 @@
     }
     #profile,
     .section-container {
-      display: none;
+      display: block;
     }
     .arrow {
-      display: block;
+      display: none;
     }
     section,
     .section-container {
